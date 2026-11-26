@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/teatang/candy-term/releases/download/v0.1.5/candy-term-win-x64-v0.1.5.exe#/candy-term.exe",
-      "hash": "a9451112303369083e869819200db9abb09dc66564e22a7aab8406c4ff0af360"
+      "hash": "0f3e434011295d2c75e09d75fca496ee9b0c16290b395b46a0ea9d1c7f772dac"
     },
     "arm64": {
       "url": "https://github.com/teatang/candy-term/releases/download/v0.1.5/candy-term-win-arm64-v0.1.5.exe#/candy-term.exe",
-      "hash": "c67ecd176b3e25ce3faf5f0e7f14e79f9b94ba9818fdd1c62230c5f1430098eb"
+      "hash": "c223ee5e0add654b434074ad8c050f767d32ffd403c8bba04b09f89c4e154437"
     }
   },
   "bin": "candy-term.exe",
